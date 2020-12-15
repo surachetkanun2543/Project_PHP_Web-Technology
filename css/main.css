@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding-top:50px;
+  margin-top: 10%;
+}
+.panel {
+  box-shadow: -4px 41px 53px -24px rgba(84,61,105,1);
+
+}
+button {
+  box-shadow: -4px 4px 34px -11px rgba(0,0,0,0.75);
+}
